@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443858954899",
+    "firebase_url": "https://evaluasilima-3be0e.firebaseio.com",
+    "project_id": "evaluasilima-3be0e",
+    "storage_bucket": "evaluasilima-3be0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443858954899:android:9faa83bdc7b63218",
+        "android_client_info": {
+          "package_name": "id.zein.evaluasilima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443858954899-1vua4kedko78qa4thf6143rp5c72pnk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.zein.evaluasilima",
+            "certificate_hash": "42d13f991522ebb1b6eb0935f8617228f8355f73"
+          }
+        },
+        {
+          "client_id": "443858954899-c6g20cdqkhtrpts6gj658sd0i71setbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWK6g9TVTlGQNI3t-Z7iDlnB8BeN1nBP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443858954899-c6g20cdqkhtrpts6gj658sd0i71setbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
